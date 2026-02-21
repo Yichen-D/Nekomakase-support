@@ -8,7 +8,7 @@
 
 If you need help or want to report an issue, please open an issue on this repository:
 
-**[Open a Support Request](../../issues/new)**
+**[Open a Support Request](https://github.com/Yichen-D/Nekomakase-support/issues/new)**
 
 When reporting a bug, please include:
 
