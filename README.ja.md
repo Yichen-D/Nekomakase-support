@@ -6,7 +6,7 @@
 
 お困りの点や不具合の報告は、以下からIssueを作成してください。
 
-**[サポートリクエストを送る](../../issues/new)**
+**[サポートリクエストを送る](https://github.com/Yichen-D/Nekomakase-support/issues/new)**
 
 不具合を報告する際は、以下の情報をお伝えください：
 - 端末の機種（例：iPhone 15、Pixel 8）
