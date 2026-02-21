@@ -1,5 +1,7 @@
 # Nekomakase - Support
 
+[日本語](README.ja.md) | [简体中文](README.zh-Hans.md)
+
 **Nekomakase** is a mobile puzzle game that combines 2048-style merge mechanics with sushi cooking. Swipe to merge ingredients on a grid, discover new dishes, and serve customers to build your reputation.
 
 ## Support
@@ -9,6 +11,7 @@ If you need help or want to report an issue, please open an issue on this reposi
 **[Open a Support Request](../../issues/new)**
 
 When reporting a bug, please include:
+
 - Device model (e.g., iPhone 15, Pixel 8)
 - OS version (e.g., iOS 17.4)
 - A description of what happened and what you expected
