@@ -36,4 +36,4 @@
 
 ## お問い合わせ
 
-サポートに関するお問い合わせは[GitHub Issues](../../issues)をご利用ください。
+サポートに関するお問い合わせは[GitHub Issues](https://github.com/Yichen-D/Nekomakase-support/issues)またはメール（[contact.nekomakase@gmail.com](mailto:contact.nekomakase@gmail.com)）をご利用ください。

@@ -44,4 +44,4 @@ See our [Privacy Policy](PRIVACY_POLICY.md) for details on how we handle your da
 
 ## Contact
 
-For support inquiries, please use [GitHub Issues](../../issues).
+For support inquiries, please use [GitHub Issues](https://github.com/Yichen-D/Nekomakase-support/issues) or email us at [contact.nekomakase@gmail.com](mailto:contact.nekomakase@gmail.com).

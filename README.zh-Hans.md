@@ -36,4 +36,4 @@
 
 ## 联系方式
 
-如需支持，请通过[GitHub Issues](../../issues)联系我们。
+如需支持，请通过[GitHub Issues](https://github.com/Yichen-D/Nekomakase-support/issues)或邮件（[contact.nekomakase@gmail.com](mailto:contact.nekomakase@gmail.com)）联系我们。

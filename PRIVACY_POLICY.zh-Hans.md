@@ -28,4 +28,4 @@ Nekomakase不会收集任何用户的个人信息，包括13岁以下的儿童�
 
 ## 联系我们
 
-如对本隐私政策有任何疑问，请在我们的[GitHub仓库](https://github.com/Yichen-D/Nekomakase-support/issues/new)中创建Issue。
+如对本隐私政策有任何疑问，请在我们的[GitHub仓库](https://github.com/Yichen-D/Nekomakase-support/issues/new)中创建Issue，或发送邮件至[contact.nekomakase@gmail.com](mailto:contact.nekomakase@gmail.com)。
