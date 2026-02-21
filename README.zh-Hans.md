@@ -6,7 +6,7 @@
 
 如需帮助或反馈问题，请在此仓库创建Issue：
 
-**[提交支持请求](../../issues/new)**
+**[提交支持请求](https://github.com/Yichen-D/Nekomakase-support/issues/new)**
 
 报告Bug时，请提供以下信息：
 - 设备型号（如iPhone 15、Pixel 8）
