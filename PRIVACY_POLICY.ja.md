@@ -28,4 +28,4 @@ Nekomakaseは13歳未満のお子様を含め、いかなる利用者からも�
 
 ## お問い合わせ
 
-本プライバシーポリシーについてご質問がある場合は、[GitHubリポジトリ](../../issues)にてIssueを作成してください。
+本プライバシーポリシーについてご質問がある場合は、[GitHubリポジトリ](https://github.com/Yichen-D/Nekomakase-support/issues/new)にてIssueを作成してください。
